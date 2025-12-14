@@ -5,4 +5,12 @@ The goated goal is my attempt of creating a functional 12ft by 7ft goal for my t
 - A big net!
 - adjustable poles
 - A cool name!
-- 
+
+| **CAD corners** |
+|----------------|
+
+| **Predicted model** |
+|---------------------|
+![Screenshot](Screenshot%202025-12-13%20220250.png)
+The 3d printed corners give the goal strong structural support needed to withstand hard shots coming at it.
+
