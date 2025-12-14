@@ -1,16 +1,109 @@
-# Goated-goal
-The goated goal is my attempt of creating a functional 12ft by 7ft goal for my training. I have tried to make it a bit bigger than other companies that overprice there small goals. My version of this goal is different than competitors as it has the ability to be ajusted in the range of 12 feet. That means you could change the goal size to your liking. It has two 3d printed corners that I will be getting from my highchool. All I need is to get the materials used for the bars.
-## Features
-- 2 strong corners that give strong support
-- A big net!
-- adjustable poles
-- A cool name!
+# 🐐 Shrihan's Goated-Goal — An Adjustable Training Soccer Goal that can be used whenever!
 
-| **CAD corners** |
-|----------------|
+## Overview
+**Goated Goal** is a fully adjustable soccer training goal designed for individual and team practices. The goal expands up to **12 ft wide and 7 ft tall**, making it significantly bigger and more versatile than most affordable consumer goals. Unlike fixed-sized and overpriced alternatives, Goated Goal can be **changed to different widths** to match training needs and field space. For me, it offers a accurate size goal that I can use for game-like plays.
 
-| **Predicted model** |
-|---------------------|
-![Screenshot](Screenshot%202025-12-13%20220250.png)
-The 3d printed corners give the goal strong structural support needed to withstand hard shots coming at it.
+This project focuses on **mechanical engineering skills, CADing (if thats a word), and prototyping**. Instead of firmware or electronics, the innovation is in its **adjustable design and versitile functionality**, using 3D-printed parts and off-the-shelf materials. 
+
+---
+
+## Problem with other real-world goals
+Most affordable soccer goals are:
+- Too small for a realistic shooting practice
+- Fixed in size and difficult to adapt (Especially through my basement door!)
+- Flimsy or overpriced for their weak build quality
+
+As a student athlete, I wanted a **full-size training goal** that is:
+- Adjustable
+- Strong enough to handle hard shots
+- Portable and easy to assemble
+- Affordable (under $100)
+
+My Goated Goal was designed to solve this problem using thoughtful mechanical engineering design.
+
+---
+
+## Key Features
+- Adjustable width up to **12 ft**
+- Custom **3D-printed structural corners**
+- Telescoping poles for adjustable sizing
+- Impact-resistant full-size net
+- Hardware-only engineering focus so it is easy for anyone to replicate
+
+---
+
+## Engineering & Design
+
+### 3D-Printed Corners
+The most critical components of the design are the **custom corner brackets**, which connect the horizontal, vertical, and diagonal poles. This really helped me understand cading more.
+
+| CAD Model |
+|-----------|
+![Right Corner](Screenshot%202025-12-14%20125309.png)
+
+The right corner features one oversized hole to fit the end of a telescoping pole with an end that has a larger diameter. This ensures a tight fit so it can withstand any shots that I give it.
+
+![Left Corner](Screenshot%202025-12-14%20125239.png)
+
+The left corner was designed with precise diagonal pole measurements to prevent any collapsing.
+
+---
+
+## Structural Stability
+| Predicted Assembly |
+|--------------------|
+![Predicted Model](Screenshot%202025-12-13%20220250.png)
+
+The diagonal support poles redirect impact forces from the crossbar into the vertical posts. Or in other words, if i hit the goal too hard, the structure will be A-okay.
+
+---
+
+## Bill of Materials (BOM)
+
+| Item | Cost |
+|------|------|
+| Football Replacement Goal Net (12×6 ft) | $22.98 |
+| Telescoping Tent Poles | $24.64 |
+| Telescopic Pool Poles (12 ft) X3 | $50.55 |
+| Hook & Loop Straps + Buckles (self-funded) | $0 |
+| **Total** | **$98.17 (~$99)** |
+
+All materials were selected based on availability, strength, adjustability, and cost efficiency. This took me too long to budget.
+
+---
+
+## Assembly Summary
+1. Insert telescoping poles into the 3D-printed corner brackets
+2. Attach diagonal support poles to prevent collapse
+3. Extend poles to desired width
+4. Secure the net using hook-and-loop straps
+5. Adjust sizing based on training needs
+6. When your done, just pack it up in any backpack you have!
+
+---
+
+## What I Learned
+- Designing **load-bearing 3D-printed parts**
+- Accounting for real-world tolerances (I learned this through my brainstorming and potential designs)
+- Balancing costs with strength and adjustablity
+- Documenting my full project clearly and percisely
+
+---
+
+## Future Improvements
+- Increase corner wall thickness for higher impact resistance
+- Add optional ground anchors
+- Add an additional pole on the bottom that can connect the small poles to the big ones
+- Test alternative materials for improved durability
+
+---
+
+## Why This Project Deserves a Grant (pls)
+Goated Goal is:
+- An original, fully custom **hardware project**
+- Designed to solve a real-world problem
+- Built with engineered components, not just assembly
+- Clearly documented with CAD, BOM, and design reasoning
+
+The grant will be used to purchase materials, assemble my final version, and check the design through real-world testing (The part that I will enjoy).
 
