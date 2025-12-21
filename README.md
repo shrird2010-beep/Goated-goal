@@ -62,12 +62,12 @@ The diagonal support poles redirect impact forces from the crossbar into the ver
 
 | Item | Cost |
 |------|------|
-| Football Replacement Goal Net (12×6 ft) | $22.98 |
+| Football Replacement Goal Net (12×6 ft) | $20.09 |
 | 2pcs Heavy-Duty Adjustable Telescopic Support Bar| $20.95 |
 | Telescopic Pool Poles (12 ft) | $16.85 |
 | 114inch Adjustable Telescopic Multi-purpose Support Rods| $11.66|
 | Hook & Loop Straps + Buckles (self-funded) | $0 |
-| **Total** | **$72.44 (~$73)** |
+| **Total** | **$69.55 (~$70)** |
 
 All materials were selected based on availability, strength, adjustability, and cost efficiency. This took me too long to budget.
 
