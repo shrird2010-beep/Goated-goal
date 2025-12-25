@@ -24,7 +24,7 @@ My Goated Goal was designed to solve this problem using thoughtful mechanical en
 ---
 
 ## Key Features
-- Adjustable width up to **12 ft**
+- Adjustable width up to **10 ft**
 - Custom **3D-printed structural corners**
 - Telescoping poles for adjustable sizing
 - Impact-resistant full-size net
