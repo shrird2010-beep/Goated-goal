@@ -39,20 +39,28 @@ The most critical components of the design are the **custom corner brackets**, w
 
 | CAD Model |
 |-----------|
-![Screenshot](Screenshot%202025-12-20%20223800.png)
+![Screenshot](Screenshot%202025-12-25%20165520.png)
 
 The right corner features one oversized hole to fit the end of a telescoping pole with an end that has a larger diameter. This ensures a tight fit so it can withstand any shots that I give it.
 
-![Screenshot](Screenshot%202025-12-20%20223740.png)
+| CAD Model |
+|-----------|
+![Screenshot](Screenshot%202025-12-25%20164047.png)
 
 The left corner was designed with precise diagonal pole measurements to prevent any collapsing.
+
+| CAD Model |
+|-----------|
+![Screenshot](Screenshot%202025-12-25%20164506.png)
+
+This is a new addition that I created after I found some old tent poles in my garage. This will cut down my costs and help me create a stronger goal.
 
 ---
 
 ## Structural Stability
 | Predicted Assembly |
 |--------------------|
-![Predicted Model](Screenshot%202025-12-13%20220250.png)
+![Screenshot](Screenshot%202025-12-25%20163314.png)
 
 The diagonal support poles redirect impact forces from the crossbar into the vertical posts. Or in other words, if i hit the goal too hard, the structure will be A-okay.
 
@@ -62,12 +70,11 @@ The diagonal support poles redirect impact forces from the crossbar into the ver
 
 | Item | Cost |
 |------|------|
-| Football Replacement Goal Net (12×6 ft) | $20.09 |
+| Football Replacement Goal Net (12×6 ft) | $5.64 |
 | 2pcs Heavy-Duty Adjustable Telescopic Support Bar| $20.95 |
-| Telescopic Pool Poles (12 ft) | $16.85 |
-| 114inch Adjustable Telescopic Multi-purpose Support Rods| $11.66|
+| Telescopic Pool Poles (10 ft) | $11.59 |
 | Hook & Loop Straps + Buckles (self-funded) | $0 |
-| **Total** | **$69.55 (~$70)** |
+| **Total** | **$38.18 (~$39)** |
 
 All materials were selected based on availability, strength, adjustability, and cost efficiency. This took me too long to budget.
 
